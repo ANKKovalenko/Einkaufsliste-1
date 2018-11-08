@@ -15,3 +15,4 @@
 
 *Grundlagen des Computers*
 
+![BAM!](http://www.geo.de/reisen/community/bild/regular/633950/Winke-winke.jpg "geo.de")
